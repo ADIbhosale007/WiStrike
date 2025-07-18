@@ -1,2 +1,2 @@
 # WiStrike
-Automated Wi-Fi Penetration Testing Tool
+Wi-Fi Penetration Testing Tool
